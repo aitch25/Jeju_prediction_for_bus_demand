@@ -1,6 +1,5 @@
 ### Prediction for demand of Jeju bus
-- Team: Hugh's
-- Prize: 3rd prize (장려상 - Encouragement prize)
+- Team: HyunsooKim
 - Rank: 
     1. Public: 14th (among 260 competitors)
     2. Private: 15th (among 260 competitors)
